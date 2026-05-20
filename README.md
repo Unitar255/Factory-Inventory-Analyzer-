@@ -77,7 +77,7 @@ npm run dev
 
 ## 👤 Author
 
-**Sempoi** — IT Associate & BIT Student @ UNITAR International University
+**Aarun** — BIT Student @ UNITAR International University
 
 ---
 
